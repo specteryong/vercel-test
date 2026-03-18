@@ -1,0 +1,9 @@
+{
+  "name": "vercel-diary",
+  "version": "1.0.0",
+  "description": "个人日记 + AI 新闻网站",
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  }
+}
